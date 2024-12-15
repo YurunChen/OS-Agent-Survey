@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="image/title_log_v3.jpg" width="100" alt="ToRA" />
 <br>
-OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control
+OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Control
 </h1>
 
 
