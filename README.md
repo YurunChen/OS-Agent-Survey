@@ -285,7 +285,7 @@ This survey aims to make contributions to the research and development of OS Age
 35. [2024/06/05] WebOlympus: An Open Platform for Web Agents on Live Websites. [[paper](https://aclanthology.org/2024.emnlp-demo.20/)]
 36. [2024/06/05] UGIF-DataSet: A New Dataset for Cross-lingual, Cross-modal Sequential actions on the UI. [[paper](https://aclanthology.org/2024.findings-naacl.89/)]
 37. [2024/06/01] WebSuite: Systematically Evaluating Why Web Agents Fail. [[paper](https://arxiv.org/abs/2406.01623)]
-38. [2024/05/23] AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents. ![image](https://github.com/user-attachments/assets/ba84b658-57ad-4df6-a4a2-5614e0013e35)
+38. [2024/05/23] AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents. [[paper](https://arxiv.org/abs/2405.14573)]
 39. [2024/05/23] AGILE: A Novel Reinforcement Learning Framework of LLM Agents. [[paper](https://arxiv.org/abs/2405.14751)]
 40. [2024/05/17] Latent state estimation helps ui agents to reason. [[paper](https://arxiv.org/abs/2405.11120)]
 41. [2024/05/07] Mapping natural language instructions to mobile UI action sequences. [[paper](https://arxiv.org/abs/2005.03776)]
