@@ -98,7 +98,7 @@ This survey aims to make contributions to the research and development of OS Age
 55. [2022/05/23] Meta-gui: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
 56. [2022/02/16] A data-driven approach for learning to control computers. [[paper](https://arxiv.org/abs/2202.08137)]
 
-Recent foundation models for OS Agents. Arch.: Architecture, Exist.: Existing, Mod.: Modified, Concat.: Concatenated, PT: Pre-Train, SFT: Supervised Fine-Tune, RL: Reinforcement Learning.
+Table 1: Recent foundation models for OS Agents. Arch.: Architecture, Exist.: Existing, Mod.: Modified, Concat.: Concatenated, PT: Pre-Train, SFT: Supervised Fine-Tune, RL: Reinforcement Learning.
 | Model               | Architecture           | Pretrain   | Finetune   | RL   | Date    | Paper                                                                                                         |Link                                                        |
 |:--------------------|:-----------------------|:-----------|:-----------|:-----|:--------|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
 | OS-Atlas            | Existing MLLM          | √          | √          | -    | 10/2024 | OS-ATLAS: A Foundation Action Model for Generalist GUI Agents                                                 |[[paper](https://arxiv.org/abs/2410.23218)]                 |
@@ -209,7 +209,7 @@ Recent foundation models for OS Agents. Arch.: Architecture, Exist.: Existing, M
 72. [2022/09/19] Enabling conversational interaction with mobile ui using large language models. [[paper](https://arxiv.org/abs/2209.08655)]
 73. [2022/05/23] Meta-gui: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
     
-Recent agent frameworks for OS Agents. TD: Textual Description, GS: GUI Screenshots, VG: Visual Grounding, SG: Semantic Grounding, DG: Dual Grounding, GL: Global, IT: Iterative, AE: Automated Exploration, EA: Experience-Augmented, MA: Management, IO: Input Operations, NO: Navigation Operations, EO: Extended Operations.
+Table 2: Recent agent frameworks for OS Agents. TD: Textual Description, GS: GUI Screenshots, VG: Visual Grounding, SG: Semantic Grounding, DG: Dual Grounding, GL: Global, IT: Iterative, AE: Automated Exploration, EA: Experience-Augmented, MA: Management, IO: Input Operations, NO: Navigation Operations, EO: Extended Operations.
 
 | Model          | Perception   | Planning   | Memory   | Action    | Data    | Paper                                                                                                                 | Link                                                   |
 |:---------------|:-------------|:-----------|:---------|:----------|:--------|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|
@@ -351,7 +351,7 @@ Recent agent frameworks for OS Agents. TD: Textual Description, GS: GUI Screensh
 101. [2017/11/06] Building natural language interfaces to web apis. [[paper](https://dl.acm.org/doi/10.1145/3132847.3133009)]
 102. [2017/08/06] World of bits: An open-domain platform for web-based agents. [[paper](https://dl.acm.org/doi/10.5555/3305890.3306005)]
  
-Recent benchmarks for OS Agents. We divided the Benchmarks into three sections based on the Platform and sorted them by release date. The following is an explanation of the abbreviations. BS: Benchmark Settings, M/P: Mobile, PC: Desktop, IT: Interactive, ST: Static, OET: Operation Environment Types, RW: Real-World, SM:Simulated, GG: GUI Grounding, IF: Information Processing, AT:Agentic, CG: Code Generation.
+Table 3: Recent benchmarks for OS Agents. We divided the Benchmarks into three sections based on the Platform and sorted them by release date. The following is an explanation of the abbreviations. BS: Benchmark Settings, M/P: Mobile, PC: Desktop, IT: Interactive, ST: Static, OET: Operation Environment Types, RW: Real-World, SM:Simulated, GG: GUI Grounding, IF: Information Processing, AT:Agentic, CG: Code Generation.
 | Benchmark         | Platform   | BS   | OET   | Task   | Date    | Paper                                                                                                     | Link                                                      |
 |:------------------|:-----------|:-----|:------|:-------|:--------|:----------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
 | AndroidControl    | M/P        | ST   | 1     | AT     | 06/2024 | On the effects of data scale on computer control agents                                                   | [[paper](https://arxiv.org/abs/2406.03679)]               |
