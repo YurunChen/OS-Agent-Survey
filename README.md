@@ -98,6 +98,41 @@ This survey aims to make contributions to the research and development of OS Age
 55. [2022/05/23] Meta-gui: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
 56. [2022/02/16] A data-driven approach for learning to control computers. [[paper](https://arxiv.org/abs/2202.08137)]
 
+Recent foundation models for OS Agents. Arch.: Architecture, Exist.: Existing, Mod.: Modified, Concat.: Concatenated, PT: Pre-Train, SFT: Supervised Fine-Tune, RL: Reinforcement Learning.
+| Model               | Architecture           | Pretrain   | Finetune   | RL   | Date    | Unnamed: 6                                                                                                    |
+|:--------------------|:-----------------------|:-----------|:-----------|:-----|:--------|:--------------------------------------------------------------------------------------------------------------|
+| OS-Atlas            | Existing MLLM          | √          | √          | -    | 10/2024 | OS-ATLAS: A Foundation Action Model for Generalist GUI Agents                                                 |
+| AutoGLM             | Existing LLM           | √          | √          | √    | 10/2024 | AutoGLM: Autonomous Foundation Agents for GUIs                                                                |
+| EDGE                | Existing MLLM          | -          | √          | -    | 10/2024 | EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data                      |
+| Ferret-UI 2         | Existing MLLM          | -          | √          | -    | 10/2024 | Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms                                |
+| ShowUI              | Existing MLLM          | √          | √          | -    | 10/2024 | ShowUI: One Vision-Language-Action Model for Generalist GUI Agent                                             |
+| UIX                 | Existing MLLM          | -          | √          | -    | 10/2024 | Harnessing Webpage UIs for Text-Rich Visual Understanding                                                     |
+| TinyClick           | Existing MLLM          | √          | -          | -    | 10/2024 | TinyClick: Single-Turn Agent for Empowering GUI Automation                                                    |
+| UGround             | Existing MLLM          | -          | √          | -    | 10/2024 | Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents                          |
+| NNetNav             | Existing LLM           | -          | √          | -    | 10/2024 | NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator                             |
+| Synatra             | Existing LLM           | -          | √          | -    | 09/2024 | Synatra: Turning indirect knowledge into direct demonstrations for digital agents at scale                    |
+| MobileVLM           | Existing MLLM          | √          | √          | -    | 09/2024 | MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding                               |
+| UI-Hawk             | Modified MLLM arch     | √          | √          | -    | 08/2024 | UI-Hawk: Unleashing the screen stream understanding for gui agents                                            |
+| GUI Action Narrator | Existing MLLM          | -          | √          | -    | 07/2024 | GUI Action Narrator: Where and When Did That Action Take Place?                                               |
+| MobileFlow          | Modified MLLM arch     | √          | √          | -    | 07/2024 | MobileFlow: A Multimodal LLM for Mobile GUI Agent                                                             |
+| VGA                 | Existing MLLM          | -          | √          | -    | 06/2024 | VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning                       |
+| OdysseyAgent        | Existing MLLM          | -          | √          | -    | 06/2024 | GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices                           |
+| Textual Foresight   | Concatenated MLLM arch | √          | √          | -    | 06/2024 | Tell Me What's Next: Textual Foresight for Generic UI Representations                                         |
+| WebAI               | Concatenated MLLM arch | -          | √          | √    | 05/2024 | Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning |
+| GLAINTEL            | Existing LLM           | -          | -          | √    | 04/2024 | Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning       |
+| Ferret-UI           | Existing MLLM          | -          | √          | -    | 04/2024 | Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs                                              |
+| AutoWebGLM          | Existing LLM           | -          | √          | √    | 04/2024 | AutoWebGLM: A Large Language Model-based Web Navigating Agent                                                 |
+| nan                 | Existing LLM           | -          | √          | -    | 03/2024 | Large Language Models Can Self-Improve At Web Agent Tasks                                                     |
+| ScreenAI            | Existing MLLM          | √          | √          | -    | 02/2024 | ScreenAI: A Vision-Language Model for UI and Infographics Understanding                                       |
+| Dual-VCR            | Concatenated MLLM arch | -          | √          | -    | 02/2024 | Dual-View Visual Contextualization for Web Navigation                                                         |
+| SeeClick            | Existing MLLM          | √          | √          | -    | 01/2024 | SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents                                             |
+| CogAgent            | Modified MLLM arch     | √          | √          | -    | 12/2023 | CogAgent: A Visual Language Model for GUI Agents                                                              |
+| ILuvUI              | Modified MLLM arch     | -          | √          | -    | 10/2023 | ILuvUI: Instruction-tuned Language-Vision modeling of UIs from Machine Conversations                          |
+| RUIG                | Concatenated MLLM arch | -          | -          | √    | 10/2023 | Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API                                 |
+| WebAgent            | Concatenated LLM arch  | √          | √          | -    | 07/2023 | A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis                        |
+| WebGUM              | Concatenated MLLM arch | -          | √          | -    | 05/2023 | Multimodal Web Navigation with Instruction-Finetuned Foundation Models                                        |
+
+
 ### Agent Frameworks
 
 1. [2024/11/10] Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents. [[paper](https://arxiv.org/abs/2411.06559)]
