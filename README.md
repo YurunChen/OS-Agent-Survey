@@ -248,9 +248,7 @@ Recent agent frameworks for OS Agents. TD: Textual Description, GS: GUI Screensh
 
 ### Evaluation & Benchmark
 
-1. [2024/10/31] And![image](https://github.com/user-attachments/assets/ed890019-027f-48f3-9ca6-2c8ab742f13b)
-![image](https://github.com/user-attachments/assets/eff9c660-3a70-44bf-a1ac-3376040e2477)
-roidLab: Training and Systematic Benchmarking of Android Autonomous Agents. [[paper](https://arxiv.org/abs/2410.24024)]
+1. [2024/10/31] AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents. [[paper](https://arxiv.org/abs/2410.24024)]
 2. [2024/10/28] AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation. [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3684998)]
 3. [2024/10/28] Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models. [[paper](https://arxiv.org/abs/2410.20745)]
 4. [2024/10/28] MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI. [[paper](https://arxiv.org/abs/2404.16006)]
