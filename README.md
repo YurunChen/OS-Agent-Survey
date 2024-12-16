@@ -80,7 +80,7 @@ This survey aims to make contributions to the research and development of OS Age
 
 **Table 2:** Recent agent frameworks for OS Agents. TD: Textual Description, GS: GUI Screenshots, VG: Visual Grounding, SG: Semantic Grounding, DG: Dual Grounding, GL: Global, IT: Iterative, AE: Automated Exploration, EA: Experience-Augmented, MA: Management, IO: Input Operations, NO: Navigation Operations, EO: Extended Operations.
 
-| Paper                                                                                                                 | Model          | Perception   | Planning   | Memory   | Action    | Data    | Link                                                   |
+| Paper                                                                                                                 | Model          | Perception   | Planning   | Memory   | Action    | Date    | Link                                                   |
 |:----------------------------------------------------------------------------------------------------------------------|:---------------|:-------------|:-----------|:---------|:----------|:--------|:-------------------------------------------------------|
 | OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization        | OpenWebVoyager | GS,SG        | -          | -        | IO,NO     | 10/2024 | [[paper](https://arxiv.org/abs/2410.19609)]            |
 | OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning                                             | OSCAR          | GS,DG        | IT         | AE       | EO        | 10/2024 | [[paper](https://arxiv.org/abs/2410.18963)]            |
