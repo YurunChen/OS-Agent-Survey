@@ -9,7 +9,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Contr
 
 <p align="center">
   <a href="https://os-agent-survey.github.io/"><b>[🌐 Website]</b></a> •
-  <a href="#"><b>[📜 Paper]</b></a> •
+  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main"><b>[🐱 GitHub]</b></a>
   <!-- <a href="https://9557c5365a6f44dc84.gradio.live"><b>[🐯 Gradio Demo]</b></a> -->
   <br>
