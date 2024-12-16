@@ -25,7 +25,7 @@ This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Compu
 ## Table of Contents
 - [Overview of OS Agent Survey](#overview-of-os-agent-survey)
 - [Papers](#papers)
-- [Full List](#full_list)
+- [Full List](#full-list)
   - [Foundation Models](#foundation-models)
   - [Agent Frameworks](#agent-frameworks)
   - [Evaluation & Benchmark](#evaluation--benchmark)
