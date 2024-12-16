@@ -24,7 +24,7 @@ This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Compu
 
 ## Table of Contents
 - [Overview of OS Agent Survey](#overview-of-os-agent-survey)
-- [Papers Related to Survey](#papers-related-to-survey)
+- [Papers](#papers)
 - [Full List](#full-list)
   - [Foundation Models](#foundation-models)
   - [Agent Frameworks](#agent-frameworks)
@@ -40,7 +40,7 @@ This survey aims to make contributions to the research and development of OS Age
 
 
 
-## Papers Related to Survey
+## Papers
 
 **Table 1:** Recent foundation models for OS Agents. Arch.: Architecture, Exist.: Existing, Mod.: Modified, Concat.: Concatenated, PT: Pre-Train, SFT: Supervised Fine-Tune, RL: Reinforcement Learning.
 
