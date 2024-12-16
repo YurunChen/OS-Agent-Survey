@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/2f5ed044-89eb-4edd-a333-54891852cb8a)<h1 align="center">
 <img src="image/title_log_v3.jpg" width="100" alt="ToRA" />
 <br>
 OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Control
@@ -19,7 +19,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Contr
 
 
 
-This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control](xxxxx). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
+This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
 
 ## 🔔We are hiring!
 
