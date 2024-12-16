@@ -21,7 +21,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Contr
 
 This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control](xxxxx). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
 
-## We are hiring!🔔
+## 🔔We are hiring!
 
 (Information will be continuously updated, please stay tuned.)
 
