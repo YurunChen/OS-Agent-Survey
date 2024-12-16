@@ -21,6 +21,11 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Contr
 
 This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control](xxxxx). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
 
+## We are hiring!
+
+**[[01.AI](https://www.01.ai/)] Foundation Model Alignment Team Hiring Algorithm Interns/New Graduates/Experienced Candidates**
+01.AI is a global leader in technology and applications of large foundation models. Its latest flagship model, Yi-Lightning, ranked #1 in China and #6 globally in the LMSys Chatbot Arena updated on October 14th (https://lmarena.ai/?leaderboard). The alignment team is responsible for cutting-edge research and engineering of post-training techniques for foundational models. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models.
+If interested, please contact via email: huxueyu.zju@gmail.com ,or WeChat: xueyu_hu.
 
 ## Table of Contents
 - [Overview of OS Agent Survey](#overview-of-os-agent-survey)
