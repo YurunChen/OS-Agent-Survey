@@ -9,7 +9,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
 
 <p align="center">
   <a href="https://os-agent-survey.github.io/"><b>[🌐 Website]</b></a> •
-  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf"><b>[📜 Paper]</b></a> •
+  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main"><b>[🐱 GitHub]</b></a>
   <!-- <a href="https://9557c5365a6f44dc84.gradio.live"><b>[🐯 Gradio Demo]</b></a> -->
   <br>
@@ -18,8 +18,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
 </p>
 
 
-
-This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
+This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
 
 ## 🔔We are hiring!
 
