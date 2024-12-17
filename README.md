@@ -421,7 +421,7 @@ This survey aims to advance the research and development of OS Agents by providi
 
 
 ## Contact
-The repo is still being updated rapidly🚀. Please let us know if you find out a mistake or find that your work is not listed by e-mail: huxueyu.zju@gmail.com.
+The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
 <!--
 Please let us know if you find out a mistake or are interested in contributing by e-mail: huxueyu.zju@gmail.com.
 -->
