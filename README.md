@@ -25,7 +25,11 @@ This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Compu
 
 (Information will be continuously updated, please stay tuned.)
 
-### [[01.AI](https://www.01.ai/)] Foundation Model Post-training Team Hiring Algorithm Interns/New Graduates/Experienced Candidates
+### [[OPPO](https://www.oppo.com/)] Personal AI Team Hiring Algorithm Interns / New Graduates / Experienced Candidates
+
+OPPO is dedicated to developing the most advanced foundation model technologies and creating personalized user experiences. Our mission is focused on developing revolutionary AI Native phones, terminals, and ecosystems that will shape the future. The Personal AI Team is primarily focused on cutting-edge research in (multimodal) LLMs, AI Agents and personalization. The team leverages OPPO’s ample platform resources, including data and computing power, to continuously invest in these key areas. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models. If interested, please contact via email: zhouwangchunshu@oppo.com.
+
+### [[01.AI](https://www.01.ai/)] Foundation Model Post-training Team Hiring Algorithm Interns / New Graduates / Experienced Candidates
 
 [01.AI](https://www.01.ai/) is a global leader in technology and applications of large foundation models. Its latest flagship model, [Yi-Lightning](https://arxiv.org/abs/2412.01253), **ranked #1 in China** and **#6 globally** in the [LMSys Chatbot Arena](https://lmarena.ai/?leaderboard) updated on October 14, 2024. The post-training team is responsible for cutting-edge research and engineering of post-training techniques for foundation models. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models.
 If interested, please contact via email: huxueyu.zju@gmail.com, or WeChat: xueyu_hu.
