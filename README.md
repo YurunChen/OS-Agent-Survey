@@ -27,7 +27,7 @@ This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Compu
 
 ### [[01.AI](https://www.01.ai/)] Foundation Model Post-training Team Hiring Algorithm Interns/New Graduates/Experienced Candidates
 
-[01.AI](https://www.01.ai/) is a global leader in technology and applications of large foundation models. Its latest flagship model, [Yi-Lightning](https://arxiv.org/abs/2412.01253), ranked #1 in China and #6 globally in the [LMSys Chatbot Arena](https://lmarena.ai/?leaderboard) updated on October 14th. The post-training team is responsible for cutting-edge research and engineering of post-training techniques for foundation models. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models.
+[01.AI](https://www.01.ai/) is a global leader in technology and applications of large foundation models. Its latest flagship model, [Yi-Lightning](https://arxiv.org/abs/2412.01253), **ranked #1 in China** and **#6 globally** in the [LMSys Chatbot Arena](https://lmarena.ai/?leaderboard) updated on October 14, 2024. The post-training team is responsible for cutting-edge research and engineering of post-training techniques for foundation models. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models.
 If interested, please contact via email: huxueyu.zju@gmail.com, or WeChat: xueyu_hu.
 
 ## Table of Contents
