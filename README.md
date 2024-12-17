@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="image/title_log_v3.jpg" width="100" alt="ToRA" />
 <br>
-OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Control
+OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
 </h1>
 
 
@@ -19,7 +19,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Contr
 
 
 
-This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
+This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
 
 ## 🔔We are hiring!
 
@@ -45,8 +45,10 @@ If interested, please contact via email: huxueyu.zju@gmail.com, or WeChat: xueyu
 - [Contact](#contact)
 
 ## Overview of OS Agent Survey
-
+<!--
 This survey aims to make contributions to the research and development of OS Agents by providing readers with a comprehensive understanding of their essential capabilities, offering insights into methodologies for building OS Agents based on (M)LLMs, and highlighting the latest research trends, challenges and future in this field. Recognizing that OS Agents are still in their early stages of development, we acknowledge the rapid advancements that continue to introduce novel methodologies and applications. Through this work, we aspire to inspire further innovation, driving progress in both academic research and industrial applications of OS Agents.
+-->
+This survey aims to advance the research and development of OS Agents by providing a detailed exploration of their fundamental capabilities, methodologies for building them using (M)LLMs, and emerging trends in the field. While OS Agents are still in the early stages of growth, the rapid evolution of technology continues to introduce innovative approaches and applications. This work seeks to highlight ongoing challenges, future opportunities, and the latest developments, encouraging further research and industrial adoption. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
 
 <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="image/survey_overview_2.jpg">
 
