@@ -429,6 +429,7 @@ Please let us know if you find out a mistake or are interested in contributing b
 
 
 ## Citation
+If you find our repository helpful, we would appreciate it if you could cite:
 ```
 @misc{hu2024osagents,  
   title        = {OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use},  
