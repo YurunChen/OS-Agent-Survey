@@ -17,8 +17,8 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
   <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
 
-<font color=#CD5C5C>This article was arbitrarily rejected by <strong>arXiv</strong>, and both appeals and resubmissions have proven ineffective. 
-    As a result, the only way to access it at the moment is through this GitHub repository</font>
+`{red}`This article was arbitrarily rejected by <strong>arXiv</strong>, and both appeals and resubmissions have proven ineffective. 
+    As a result, the only way to access it at the moment is through this GitHub repository``
 
 This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
 
