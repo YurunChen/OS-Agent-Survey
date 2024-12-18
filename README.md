@@ -429,10 +429,11 @@ Please let us know if you find out a mistake or are interested in contributing b
 
 
 ## Citation
+```
 @misc{hu2024osagents,  
   title        = {OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use},  
   author       = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},  
   year         = {2024},  
   howpublished = {\url{https://github.com/OS-Agent-Survey/OS-Agent-Survey/}},  
 }  
-
+```
