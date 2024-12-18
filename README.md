@@ -17,6 +17,8 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
   <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
 
+
+
 <p style="color:red; font-weight:bold;">
 This article was arbitrarily rejected by <strong>arXiv</strong>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through this GitHub repository.
 </p>
