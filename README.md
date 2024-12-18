@@ -42,7 +42,7 @@ If interested, please contact via email: huxueyu.zju@gmail.com.
   - [Evaluation & Benchmark](#evaluation--benchmark)
   - [Safety & Privacy](#safety--privacy)
 - [Contact](#contact)
-
+  [Citation](#citation)
 ## Overview of OS Agent Survey
 <!--
 This survey aims to make contributions to the research and development of OS Agents by providing readers with a comprehensive understanding of their essential capabilities, offering insights into methodologies for building OS Agents based on (M)LLMs, and highlighting the latest research trends, challenges and future in this field. Recognizing that OS Agents are still in their early stages of development, we acknowledge the rapid advancements that continue to introduce novel methodologies and applications. Through this work, we aspire to inspire further innovation, driving progress in both academic research and industrial applications of OS Agents.
@@ -425,3 +425,13 @@ The repo is still being updated rapidly🚀. Please let us know if you notice an
 <!--
 Please let us know if you find out a mistake or are interested in contributing by e-mail: huxueyu.zju@gmail.com.
 -->
+
+
+##Citation
+@misc{hu2024osagents,
+  title        = {OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use},
+  author       = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},
+  year         = {2024},
+  howpublished = {\url{https://github.com/OS-Agent-Survey/OS-Agent-Survey/}},
+}
+
