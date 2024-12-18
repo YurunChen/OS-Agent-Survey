@@ -18,7 +18,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
 </p>
 
 > [!CAUTION]
-> This article was arbitrarily rejected by arXiv, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through this GitHub repository.
+> This paper was arbitrarily **rejected by arXiv**, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through this GitHub repository.
 
 This is the repo for [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf). The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmarks, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
 
@@ -37,7 +37,7 @@ If interested, please contact via email: huxueyu.zju@gmail.com.
 
 ## Table of Contents
 - [Overview of OS Agent Survey](#overview-of-os-agent-survey)
-- [Papers](#papers)
+- [Tables](#tables)
 - [Full List](#full-list)
   - [Foundation Models](#foundation-models)
   - [Agent Frameworks](#agent-frameworks)
@@ -56,7 +56,7 @@ This survey aims to advance the research and development of OS Agents by providi
 
 
 
-## Papers
+## Tables
 
 **Table 1:** Recent foundation models for OS Agents. Arch.: Architecture, Exist.: Existing, Mod.: Modified, Concat.: Concatenated, PT: Pre-Train, SFT: Supervised Fine-Tune, RL: Reinforcement Learning.
 
