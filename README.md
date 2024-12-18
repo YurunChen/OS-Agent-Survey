@@ -17,7 +17,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
   <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
 
-<a href="#" style="text-decoration: none; color: red !important;">
+<a href="#" style="text-decoration: none; color: red;" onmouseover="this.style.color='red'" onmouseout="this.style.color='red'">
     This article was arbitrarily rejected by <strong>arXiv</strong>, and both appeals and resubmissions have proven ineffective. 
     As a result, the only way to access it at the moment is through this GitHub repository.
 </a>
