@@ -44,6 +44,7 @@ If interested, please contact via email: huxueyu.zju@gmail.com.
   - [Agent Frameworks](#agent-frameworks)
   - [Evaluation & Benchmark](#evaluation--benchmark)
   - [Safety & Privacy](#safety--privacy)
+- [Useful Links](#useful-links)
 - [Contact](#contact)
 - [Citation](#citation)
 
@@ -422,6 +423,12 @@ This survey aims to advance the research and development of OS Agents by providi
 9. [2024/06/18] Adversarial Attacks on Multimodal Agents. [[paper](https://arxiv.org/abs/2406.12814)]
 10. [2024/02/26] WIPI: A New Web Threat for LLM-Driven Web Agents. [[paper](https://arxiv.org/abs/2402.16965)]
 11. [2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? [[paper](https://arxiv.org/abs/2308.01990)]
+
+
+## Useful Links
+1.aialt/awesome-mobile-agents: https://github.com/aialt/awesome-mobile-agents
+2.OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List
+3.vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey
 
 
 ## Contact
