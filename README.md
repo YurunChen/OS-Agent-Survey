@@ -430,9 +430,9 @@ This survey aims to advance the research and development of OS Agents by providi
 
 
 ## Useful Links
-1.aialt/awesome-mobile-agents: https://github.com/aialt/awesome-mobile-agents <br>
-2.OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
-3.vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
+1. aialt/awesome-mobile-agents: https://github.com/aialt/awesome-mobile-agents <br>
+2. OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
+3. vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
 
 
 ## Contact
