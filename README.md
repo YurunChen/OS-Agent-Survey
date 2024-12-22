@@ -449,13 +449,10 @@ This survey aims to advance the research and development of OS Agents by providi
 
 ## Contact
 The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
-<!--
-Please let us know if you find out a mistake or are interested in contributing by e-mail: huxueyu.zju@gmail.com.
--->
 
 
 ## Citation
-If you find our repository helpful, we would appreciate it if you could cite:
+Considering that the **current bib citation points to our repository**, we will **update it to point to the paper as soon as the preprint server is available**. Please stay tuned for updates. Before this, if you find our repository helpful, we would appreciate it if you could cite:
 ```
 @misc{hu2024osagents,  
   title        = {OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use},  
