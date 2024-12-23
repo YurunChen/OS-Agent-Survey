@@ -16,29 +16,22 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
   <!-- <a href="#-quick-start">Quick Start</a> • -->
   <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
- <!--
-> [!CAUTION]
-> This paper was **rejected by arXiv** with so-called **"Our moderators determined that your submission does not contain sufficient original or substantive scholarly research and is not of interest to arXiv"**. We attempted an **appeal**, but received the exact same rejection response as the initial submission, with **no further explanation** provided. The **resubmission** also proved **ineffective**. As a result, the only way to access it at the moment is through **this GitHub repository**. 
--->
 
 This is the repo for the paper [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf). This paper conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: **Foundation Models**, **Agent Frameworks**, **Evaluation & Benchmarks**, and **Safety & Privacy** and this collection will be continuously updated. We aim to provide you with comprehensive knowledge in the OS Agent field, hoping it can help you quickly familiarize yourself with this research direction.
 
 ## ❗Why is there no arXiv link for this paper?
 
-This paper was **rejected by arXiv** with the justification: "Our moderators determined that your submission **does not contain sufficient original or substantive scholarly research and is not of interest to arXiv**." This reasoning appears to be **inconsistent with the content and contribution of the paper**. We attempted an **appeal**, but unfortunately, this was unsuccessful, and **no further explanation was provided**. A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our [GitHub repository](https://github.com/OS-Agent-Survey/OS-Agent-Survey). We are disappointed by the lack of transparency in arXiv’s moderation process.
+This paper was **rejected by arXiv surprisingly** with the justification: "Our moderators determined that your submission **does not contain sufficient original or substantive scholarly research and is not of interest to arXiv**." This reasoning appears to be **inconsistent with the content and contribution of the paper**. We attempted an **appeal**, but unfortunately, this was unsuccessful, and **no further explanation was provided**. A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our [GitHub repository](https://github.com/OS-Agent-Survey/OS-Agent-Survey). We are disappointed by the lack of transparency in arXiv’s moderation process.
 
 ## 🔔We are hiring!
 
-(Information will be continuously updated, please stay tuned.)
+(Some institutes involved in this survey is hiring. Information will be continuously updated, please stay tuned. Detailed Information is [here](https://github.com/OS-Agent-Survey/OS-Agent-Survey/edit/main/README.md#hiring).)
 
-### [[OPPO](https://www.oppo.com/)] Personal AI Team Hiring Algorithm Interns / New Graduates / Experienced Candidates
+### [[OPPO](https://www.oppo.com/)] Personal AI Team
+[OPPO](https://www.oppo.com/) is seeking algorithm interns, new graduates, and experienced candidates for its Personal AI Team. Focused on multimodal LLMs, AI Agents, and personalization, the team works to develop **AI Native Phones**. Interested candidates, contact: zhouwangchunshu@oppo.com.
 
-[OPPO](https://www.oppo.com/) is dedicated to developing the most advanced foundation model technologies and creating personalized user experiences. Our mission is focused on developing revolutionary **AI Native Phones** that will shape the future. The Personal AI Team is primarily focused on cutting-edge research in (multimodal) LLMs, AI Agents and personalization. The team leverages OPPO’s ample platform resources, including data and computing power, to continuously invest in these key areas. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models. If interested, please contact via email: zhouwangchunshu@oppo.com.
-
-### [[01.AI](https://www.01.ai/)] Foundation Model Post-training Team Hiring Algorithm Interns / New Graduates / Experienced Candidates
-
-[01.AI](https://www.01.ai/) is a global leader in technology and applications of large foundation models. Its latest flagship model, [Yi-Lightning](https://arxiv.org/abs/2412.01253), **ranked #1 in China** and **#6 globally** in the [LMSys Chatbot Arena](https://lmarena.ai/?leaderboard) updated on October 14, 2024. The post-training team is responsible for cutting-edge research and engineering of post-training techniques for foundation models. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models.
-If interested, please contact via email: huxueyu.zju@gmail.com.
+### [[01.AI](https://www.01.ai/)] Foundation Model Post-Training Team
+[01.AI](https://www.01.ai/) is hiring algorithm interns, new graduates, and experienced candidates for its post-training team. Join the team behind [Yi-Lightning](https://arxiv.org/abs/2412.01253), ranked **#1 in China** and **#6 globally** in the [LMSys Chatbot Arena](https://lmarena.ai/?leaderboard) updated on October 14, 2024. Interested candidates, contact: huxueyu.zju@gmail.com.
 
 ## Table of Contents
 - [Overview of OS Agent Survey](#overview-of-os-agent-survey)
@@ -446,6 +439,16 @@ This survey aims to advance the research and development of OS Agents by providi
 2. OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
 3. vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
 
+## Hiring
+
+### [[OPPO](https://www.oppo.com/)] Personal AI Team Hiring Algorithm Interns / New Graduates / Experienced Candidates
+
+[OPPO](https://www.oppo.com/) is dedicated to developing the most advanced foundation model technologies and creating personalized user experiences. Our mission is focused on developing revolutionary **AI Native Phones** that will shape the future. The Personal AI Team is primarily focused on cutting-edge research in (multimodal) LLMs, AI Agents and personalization. The team leverages OPPO’s ample platform resources, including data and computing power, to continuously invest in these key areas. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models. If interested, please contact via email: zhouwangchunshu@oppo.com.
+
+### [[01.AI](https://www.01.ai/)] Foundation Model Post-training Team Hiring Algorithm Interns / New Graduates / Experienced Candidates
+
+[01.AI](https://www.01.ai/) is a global leader in technology and applications of large foundation models. Its latest flagship model, [Yi-Lightning](https://arxiv.org/abs/2412.01253), **ranked #1 in China** and **#6 globally** in the [LMSys Chatbot Arena](https://lmarena.ai/?leaderboard) updated on October 14, 2024. The post-training team is responsible for cutting-edge research and engineering of post-training techniques for foundation models. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models.
+If interested, please contact via email: huxueyu.zju@gmail.com.
 
 ## Contact
 The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
