@@ -41,8 +41,8 @@ This paper was **rejected by arXiv surprisingly** with the justification: "Our m
   - [Agent Frameworks](#agent-frameworks)
   - [Evaluation & Benchmark](#evaluation--benchmark)
   - [Safety & Privacy](#safety--privacy)
-- [Useful Links](#useful-links)
 - [Hiring](#hiring)
+- [Useful Links](#useful-links)
 - [Contact](#contact)
 - [Citation](#citation)
 
@@ -434,12 +434,6 @@ This survey aims to advance the research and development of OS Agents by providi
 10. [2024/02/26] WIPI: A New Web Threat for LLM-Driven Web Agents. [[paper](https://arxiv.org/abs/2402.16965)]
 11. [2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? [[paper](https://arxiv.org/abs/2308.01990)]
 
-
-## Useful Links
-1. aialt/awesome-mobile-agents: https://github.com/aialt/awesome-mobile-agents <br>
-2. OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
-3. vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
-
 ## Hiring
 
 ### [[OPPO](https://www.oppo.com/)] Personal AI Team Hiring Algorithm Interns / New Graduates / Experienced Candidates
@@ -450,6 +444,11 @@ This survey aims to advance the research and development of OS Agents by providi
 
 [01.AI](https://www.01.ai/) is a global leader in technology and applications of large foundation models. Its latest flagship model, [Yi-Lightning](https://arxiv.org/abs/2412.01253), **ranked #1 in China** and **#6 globally** in the [LMSys Chatbot Arena](https://lmarena.ai/?leaderboard) updated on October 14, 2024. The post-training team is responsible for cutting-edge research and engineering of post-training techniques for foundation models. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models.
 If interested, please contact via email: huxueyu.zju@gmail.com.
+
+## Useful Links
+1. aialt/awesome-mobile-agents: https://github.com/aialt/awesome-mobile-agents <br>
+2. OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
+3. vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
 
 ## Contact
 The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
