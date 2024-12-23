@@ -42,6 +42,7 @@ This paper was **rejected by arXiv surprisingly** with the justification: "Our m
   - [Evaluation & Benchmark](#evaluation--benchmark)
   - [Safety & Privacy](#safety--privacy)
 - [Useful Links](#useful-links)
+- [Hiring](#hiring)
 - [Contact](#contact)
 - [Citation](#citation)
 
