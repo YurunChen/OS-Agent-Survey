@@ -11,7 +11,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
   <a href="https://os-agent-survey.github.io/"><b>[🌐 Website]</b></a> •
   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main"><b>[🐱 GitHub]</b></a>•
-  <img src="./images/zhihu_logo.png" style="width:16px; height:16px; vertical-align:middle;"> 
+  <img src="./image/zhihu_logo.png" style="width:16px; height:16px; vertical-align:middle;"> 
   <a href="https://zhuanlan.zhihu.com/p/14143950360n"><b>ZhiHu</b></a>
   <!-- <a href="https://9557c5365a6f44dc84.gradio.live"><b>[🐯 Gradio Demo]</b></a> -->
   <br>
